@@ -1,1 +1,62 @@
-//CSS
+/**********************************
+			GENERAL
+**********************************/
+
+ body {
+ 	font-family: 'Press Start 2P', cursive;
+ 	background-color: #9d9d9d;
+ 	text-align: center;
+ }
+
+ .container {
+ 	display: grid;
+ }
+
+ .button {
+ 	font-family: 'Press Start 2P', cursive;
+ 	font-size: 24px;
+ 	color: white;
+ 	padding: 48px;
+ 	border: 5px solid white;
+ 	background-color: #9d9d9d;
+ 	display: block;
+ 	margin: 50px;
+ 	text-decoration: none;
+ 	cursor: pointer;
+ }
+
+ .nfl {
+ 	background-image: url(../img/nfl.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+ }
+
+ .mlb {
+ 	background-image: url(../img/mlb.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+ }
+
+.nhl {
+	background-image: url(../img/nhl.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+.nba {
+	background-image: url(../img/nba.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+
+
+
